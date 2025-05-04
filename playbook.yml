@@ -4,7 +4,7 @@
 
   vars:
     repo_url: "https://github.com/Sravani0730/ansible-3-tier-deployment.git"
-    app_path: "/root/"
+    app_path: "/root/sravani"
     frontend_image: "frontend-app:latest"
     backend_image: "backend-app:latest"
     rds_host: "database-1.cr4i2amuwzm0.us-east-1.rds.amazonaws.com"
