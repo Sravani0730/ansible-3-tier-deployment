@@ -3,7 +3,7 @@
   become: yes
 
   vars:
-    repo_url: "https://github.com/CloudTechDevOps/2nd10WeeksofCloudOps-main.git"
+    repo_url: "https://github.com/Sravani0730/ansible-3-tier-deployment.git"
     app_path: "/root/veera/"
     frontend_image: "frontend-app:latest"
     backend_image: "backend-app:latest"
